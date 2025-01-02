@@ -1,0 +1,18 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.01.01"]
+[Round "?"]
+[White "Dsmk557"]
+[Black "yli12313"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "691"]
+[BlackElo "588"]
+[Termination "Dsmk557 won by checkmate"]
+[ECO "B30"]
+[EndTime "14:38:00 PST"]
+[Link "https://www.chess.com/game/live/121859070698"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. Bc4 h6 5. O-O Nf6 6. d3 e5 7. Be3 Nd4 8. Nxe5
+Bd6 9. Nxf7 Qe7 10. Nxh8 Nh5 11. Qxh5+ Kd8 12. Ng6 Qf6 13. Nd5 Qe5 14. Nxe5 Bxe5
+15. Qf7 d6 16. Qe7# 1-0
