@@ -1,4 +1,4 @@
-import chess.svg
+import chess.pgn
 import IPython
 from settings import NAG_SYMBOLS
 import time
@@ -33,6 +33,7 @@ def game_play(game_path, annotations):
             IPython.display.display(IPython.display.HTML(combined_display))
 
             if node.nags:
+                # NOTE: See if you really need f"${nag}".
                 nag_symbols = [NAG_SYMBOLS.get(nag, f"${nag}") for nag in node.nags]
                 print(f"{move}: {' '.join(nag_symbols)}")
 
