@@ -1,0 +1,16 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.01.04"]
+[Round "-"]
+[White "yli12313"]
+[Black "vMaogood"]
+[Result "0-1"]
+[WhiteElo "943"]
+[BlackElo "953"]
+[TimeControl "600"]
+[EndTime "18:07:55 PST"]
+[Termination "vMaogood won by checkmate"]
+
+1. e4 c5 2. Nc3 e5 3. Nf3 d6 4. Nd5 Nf6 5. Bd3 Nxd5 6. exd5 Be7 7. Bb5+ Bd7 8.
+a4 a6 9. Bxd7+ Nxd7 10. O-O c4 11. Re1 Nb6 12. b3 Nxd5 13. bxc4 Nf6 14. d4 O-O
+15. dxe5 dxe5 16. Qxd8 Raxd8 17. Nxe5 Bb4 18. Re2 Rd1+ 19. Re1 Rxe1# 0-1

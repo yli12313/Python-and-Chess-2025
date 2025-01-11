@@ -1,0 +1,17 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.01.02"]
+[Round "-"]
+[White "yli12313"]
+[Black "Gmbrazilian2025"]
+[Result "0-1"]
+[WhiteElo "799"]
+[BlackElo "866"]
+[TimeControl "600"]
+[EndTime "13:57:43 PST"]
+[Termination "Gmbrazilian2025 won by checkmate"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d3 Be7 5. d4 cxd4 6. Nxd4 d6 7. Nxc6 bxc6 8.
+Bd3 Nf6 9. h3 O-O 10. Qf3 e5 11. a3 Qc7 12. Bg5 Be6 13. Bxf6 Bxf6 14. O-O-O Rfd8
+15. g4 Bg5+ 16. Kb1 Rab8 17. h4 Bf4 18. g5 Qa5 19. h5 Qxc3 20. b3 Rxb3+ 21. cxb3
+Qxb3+ 22. Ka1 Qa2# 0-1

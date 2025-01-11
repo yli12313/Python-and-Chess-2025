@@ -22,9 +22,10 @@ Chess has made a resounding resurgence in the 2020s and it’s a pastime that ma
 * <s>Set up the code scaffolding.</s>
 * <s>Submitted my proposal to the PyCon Committee.</s>
 * <s>Research what GUI/based Python libraries might be useful (python-chess).</s>
+* <s>Figure out how to add annotations.</s>
 
 **TASKS**:
-* Figure out how to add annotations.
+* Learn how to interpret Stockfish.
 * Download the games of interest from chessgames.com
   * <s>fisher_1_25</s>
   * fisher_26_50

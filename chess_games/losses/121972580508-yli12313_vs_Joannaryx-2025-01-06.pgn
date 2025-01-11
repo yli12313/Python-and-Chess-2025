@@ -1,0 +1,17 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.01.06"]
+[Round "-"]
+[White "yli12313"]
+[Black "Joannaryx"]
+[Result "0-1"]
+[WhiteElo "943"]
+[BlackElo "967"]
+[TimeControl "600"]
+[EndTime "16:24:55 PST"]
+[Termination "Joannaryx won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bc5 5. h3 O-O 6. d3 d6 7. Nd5 Nxd5 8. exd5
+Nd4 9. Nxd4 exd4 10. Bd2 Re8+ 11. Kf1 c6 12. Qf3 cxd5 13. Qxd5 Re6 14. Kg1 Bd7
+15. Kh2 Bc6 16. Qh5 d5 17. Bb3 Bd6+ 18. g3 Qf6 19. Rhf1 Rae8 20. Qg4 Re2 21.
+Rad1 Rxf2+ 22. Rxf2 Qxf2+ 23. Kh1 f5 24. Qh5 Bxg3 25. Qg5 Qh2# 0-1
