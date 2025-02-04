@@ -1,7 +1,6 @@
 import chess.engine
 import chess.pgn
 import IPython
-from settings import NAG_SYMBOLS
 import time
 
 def game_play(game_path, annotations):
@@ -22,19 +21,20 @@ def game_play(game_path, annotations):
                 black_move_count += 1
 
             board.push(move)
-            info = engine.analyse(board, chess.engine.Limit(time=0.1))
+            info = engine.analyse(board, chess.engine.Limit(time=1))
+            score = info["score"].relative
                     
             combined_display = f"""
                 <div><h1>{game.headers['White']} vs. {game.headers['Black']}; Result: {game.headers['Result']}</h1></div>
-                <div>Move: {white_move_count}</div>
+                <div><h2>Move: {white_move_count}</h2></div>
                 <div>{board._repr_svg_()}</div>
-                <div>Move: {move}, Score: {info['score']}</div>
+                <div><h2>Move: {move}</h2></div>
             """
 
             IPython.display.display(IPython.display.HTML(combined_display))
-
             IPython.display.clear_output(wait=True)
-            time.sleep(4)
+
+            time.sleep(1.75)
 
         IPython.display.display(IPython.display.HTML(combined_display))
         print(game.headers["Termination"])
